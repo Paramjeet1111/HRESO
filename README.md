@@ -82,8 +82,6 @@ A modern, modular framework for optimizing hybrid renewable energy systems (sola
 - **Sankey:** Energy flow distribution
 - **Heatmap:** Surplus/deficit patterns
 - **Total vs Demand:** Aggregate output vs. requirements
-
-
 ---
 
 ## 💡 Insights
