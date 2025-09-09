@@ -110,14 +110,8 @@ The system requires two input CSV files:
 2. **Demand Data** (`demand_data.csv`):
    - `energy_demand` (kWh)
 
-
 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-🙋‍♂️ Support
-For questions or support, please open an issue in the GitHub repository or contact the maintainers.
 
 Note: This project is for educational and research purposes. Real-world implementations may require additional considerations for grid integration, regulatory compliance, and safety standards.
