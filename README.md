@@ -29,7 +29,7 @@ HRESO/
 ## 🎯 Key Features
 
 <p align="center">
-   <img src="Images/Energy Flow Renewable Penetration Analysis.jpg" width="60%" alt="Renewable Generation Breakdown"/>
+   <img src="Images/Energy Flow Renewable Penetration Analysis.jpg" width="80%" alt="Renewable Generation Breakdown"/>
 </p>
 
 
