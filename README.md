@@ -26,7 +26,7 @@ HRESO/
 └── README.md
 ```
 
-## 🎯 Key Features
+## 🎯 Energy Flow Breakdown
 
 <p align="center">
    <img src="Images/Energy Flow Renewable Penetration Analysis.jpg" width="100%" alt="Renewable Generation Breakdown"/>
