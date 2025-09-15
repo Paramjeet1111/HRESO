@@ -5,6 +5,9 @@
    <img src="https://img.shields.io/badge/SciPy-Optimization-green"/>
    <img src="https://img.shields.io/badge/Matplotlib-Visualization-orange"/>
    <img src="https://img.shields.io/badge/Renewable-Energy-brightgreen"/>
+   <a href="https://www.irena.org/Publications/2023/Aug/Renewable-Power-Generation-Costs-in-2022">
+      <img src="https://img.shields.io/badge/Cost%20Data-IRENA%202022-lightgrey"/>
+   </a>
 </p>
 
 ---
